@@ -61,4 +61,3 @@ commentForm.onsubmit = function (evt) {
 ## Languages
 - Russian \- Native
 - English \- A2 (Elementary English)
-- 
